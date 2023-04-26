@@ -15,7 +15,7 @@
   <br>  [Frontend](https://github.com/AnnaMakos/SocialCareAppFront) Angular (TypeScript, HTML, SCSS)
   
  
-### Contact
+### Contact:
 * [LinkedIn](https://www.linkedin.com/in/anna-makos/)
 * anna96makos@gmail.com
 <!--
