@@ -1,12 +1,12 @@
-### Hi, I'm Anna Makoś and here are some projects I built during my studies 👋
+# Hi, I'm Anna Makoś and here are some projects I built during my studies 👋
 
-# I graduated IT at Military University of Technology (WAT) in Warsaw
+## I graduated IT at Military University of Technology (WAT) in Warsaw
 
 
-My projects:
+### Projects:
 
-- Java
--- Pacman 
+Java
+* [Pacman](https://github.com/AnnaMakos/Pacman) 
 <!--
 **AnnaMakos/AnnaMakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
