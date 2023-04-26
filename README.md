@@ -16,7 +16,7 @@
   
  
 ### Contact
-* [My LinkedIn](https://www.linkedin.com/in/anna-makos/)
+* [LinkedIn](https://www.linkedin.com/in/anna-makos/)
 * anna96makos@gmail.com
 <!--
 **AnnaMakos/AnnaMakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
