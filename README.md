@@ -13,6 +13,9 @@
 * Web app supporting social care center
   <br>  [Backend](https://github.com/AnnaMakos/SocialCareAppBack) Java
   <br>  [Frontend](https://github.com/AnnaMakos/SocialCareAppFront) Angular (TypeScript, HTML, SCSS)
+  
+ 
+### [My LinkedIn](https://www.linkedin.com/in/anna-makos/)
 <!--
 **AnnaMakos/AnnaMakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
