@@ -7,8 +7,8 @@
 
 
 * [Pacman](https://github.com/AnnaMakos/Pacman)
-  You can play the game by downloading jar file and running it with Java 8.
-  Download jar [here](https://github.com/AnnaMakos/Pacman/blob/master/out/artifacts/Pacman_jar/Pacman.jar)
+  \You can play this game by downloading jar file and running it with Java 8.
+  \Download jar [here](https://github.com/AnnaMakos/Pacman/blob/master/out/artifacts/Pacman_jar/Pacman.jar)
 <!--
 **AnnaMakos/AnnaMakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
