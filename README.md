@@ -11,7 +11,7 @@
 
 * [Pacman](https://github.com/AnnaMakos/Pacman) Java
   <br>  You can play this game by downloading jar file and running it with Java 8+.
-  <br>  Download jar file [here](https://github.com/AnnaMakos/Pacman/blob/master/out/artifacts/Pacman_jar/Pacman.jar).
+  <br>  Download jar file [here](https://github.com/AnnaMakos/Pacman/releases).
   <img src="https://github.com/AnnaMakos/AnnaMakos/blob/main/Images/pacmanScreen.png"/>
   
  
