@@ -8,13 +8,13 @@
 * Web app supporting social care center
   <br>  [Backend](https://github.com/AnnaMakos/SocialCareAppBack) Java
   <br>  [Frontend](https://github.com/AnnaMakos/SocialCareAppFront) Angular (TypeScript, HTML, SCSS)
-  <img src=https://github.com/AnnaMakos/AnnaMakos/blob/main/Images/socialcareSignup.png"/>
-  <img src=https://github.com/AnnaMakos/AnnaMakos/blob/main/Images/socialcareMaps.png"/>
+  <img src=https://github.com/AnnaMakos/AnnaMakos/blob/main/Images/socialcareSignup.png">
+  <img src=https://github.com/AnnaMakos/AnnaMakos/blob/main/Images/socialcareMaps.png">
 
 * [Pacman](https://github.com/AnnaMakos/Pacman) Java
   <br>  You can play this game by downloading jar file and running it with Java 8+.
   <br>  Download jar file [here](https://github.com/AnnaMakos/Pacman/releases).
-  <img src="https://github.com/AnnaMakos/AnnaMakos/blob/main/Images/pacmanScreen.png"/>
+  <img src="https://github.com/AnnaMakos/AnnaMakos/blob/main/Images/pacmanScreen.png">
   
  
 ### Contact:
