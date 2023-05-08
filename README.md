@@ -10,6 +10,7 @@
   <br>  [Frontend](https://github.com/AnnaMakos/SocialCareAppFront) Angular (TypeScript, HTML, SCSS)
   <br>
   <img src=https://github.com/AnnaMakos/AnnaMakos/blob/main/Images/socialcareSignup.png">
+  <br>
   <img src=https://github.com/AnnaMakos/AnnaMakos/blob/main/Images/socialcareMaps.png">
 
 * [Pacman](https://github.com/AnnaMakos/Pacman) Java
