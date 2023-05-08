@@ -8,6 +8,7 @@
 * Web app supporting social care center
   <br>  [Backend](https://github.com/AnnaMakos/SocialCareAppBack) Java
   <br>  [Frontend](https://github.com/AnnaMakos/SocialCareAppFront) Angular (TypeScript, HTML, SCSS)
+  <br>
   <img src=https://github.com/AnnaMakos/AnnaMakos/blob/main/Images/socialcareSignup.png">
   <img src=https://github.com/AnnaMakos/AnnaMakos/blob/main/Images/socialcareMaps.png">
 
